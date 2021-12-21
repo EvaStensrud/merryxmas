@@ -1,0 +1,36 @@
+h1 {
+
+    color: green;
+    font-family: 'helvetica';
+    text-align: center;
+}
+p {
+    color: green;
+    font-family: 'helvetica';
+
+}
+
+body {
+    margin: 20;
+    padding: 20;
+    width: 100%;
+    height: 100%;
+    font-size: 5;
+    font-family: Helvetica;
+    background-color: rgb(255, 235, 205);
+    user-select: none;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  img {
+      width: 400px;
+      height: auto;
+  }
+
+  .tree-text {
+      position: absolute;
+  }
